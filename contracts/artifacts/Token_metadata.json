@@ -124,7 +124,7 @@
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
@@ -280,11 +280,11 @@
 	},
 	"sources": {
 		"contracts/MyToken.sol": {
-			"keccak256": "0x3b98e6cd2668d721cfa5087651f1b7c65e40c1ce07ba50894cdb5ee1cadaef81",
+			"keccak256": "0x474c9f075ff8dc13222f3bd72960f5d7bd37f18846429e6d582002c9bbb6d076",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4b9dae74703e83cecf826dc4989a176dc4344a4ee6f78ff94206c1b0726adffb",
-				"dweb:/ipfs/QmU2f7aebw91wRnw2B7h1i9EEfSw9uSuon61LpnCmFucri"
+				"bzz-raw://588316c7ae8adebfd508280fb0f70f14dd73a58f3a5cb7c7f9eb192eeb59dcf2",
+				"dweb:/ipfs/QmRq4XEqafvnemaNFKUvKr7kzdVrTbYhvMZgArCqSj14dS"
 			]
 		}
 	},
